@@ -19,6 +19,7 @@ I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/st
 - HTML | CSS | SASS
 - Webpack
 
+## Current Status
 - 🔭 I’m currently working on Angular and Typescript
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on open source projects and UI/UX designs
@@ -41,7 +42,7 @@ I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/st
 - [LinkedIn]() 👩‍💻
 
 ### Stats
-[![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=fff&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D&title_color=FFF7D6)](https://github.com/richierich25)
+[![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D)](https://github.com/richierich25)
 
 ### Some Fun Facts about me:
 
