@@ -6,26 +6,19 @@
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/richierich25)
 
 
-I am a FullStack Web Developer from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I work with Angular, ReactJS, Javascript, typescript, jQuery, HTML/CSS/SASS, NodeJS, Firebase and many more on VSCode.
-
-I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Dev.to](https://dev.to/richierich25). 
+I am a FullStack Web Developer from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Dev.to](https://dev.to/richierich25). 
 
 ## ✨ My Expertise
-- Angular10
-- Typescript
-- Javascript
-- NodeJS
-- Firebase & Google Cloud Platform
-- HTML | CSS | SASS
-- Webpack
+- Angular10 | Typescript | Javascript | NodeJS | Firebase & Google Cloud Platform | HTML | CSS | SASS | Webpack
 
 ## Current Status
 - 🔭 I’m currently working on Angular and Typescript
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on open source projects and UI/UX designs
-- 🤔 I’m looking for help with anything that makes the life of a developer easier
 - 💬 Ask me about anything UI
 
+### Stats
+[![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D)](https://github.com/richierich25)
 
 ## Opensource contributions
 - [pivot-angular](https://github.com/richierich25/pivot-angular): Angular
@@ -41,8 +34,6 @@ I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/st
 - [Stackoverflow](https://stackoverflow.com/story/richierich25)
 - [LinkedIn]() 👩‍💻
 
-### Stats
-[![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D)](https://github.com/richierich25)
 
 ### Some Fun Facts about me:
 
