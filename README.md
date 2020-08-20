@@ -1,13 +1,23 @@
 ### Hey everyone, I'm Richard Abraham 👋
 
-<!--
-**richierich25/richierich25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![Profile Views](https://komarev.com/ghpvc/?username=richierich25&color=00BBA0&label=PROFILE+VIEWS)
+[![Made-With-Markdown](https://img.shields.io/badge/MADE%20WITH-Markdown-00BBA0)](https://github.com/richierich25)
+[![GitHub followers](https://img.shields.io/github/followers/richierich25.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/richierich25?tab=followers)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/richierich25)
 
-I love to code !
 
-I have been developing websites and applications for around 5 years. Most of my experience lies in Full Stack Development, developing POC's, fixing security vulnerabilities to
-solve challenging project related tasks. I work with Angular, ReactJS, Javascript, typescript, jQuery, HTML/CSS/SASS, NodeJS, Firebase and many more on VSCode.
+I am a FullStack Web Developer from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I work with Angular, ReactJS, Javascript, typescript, jQuery, HTML/CSS/SASS, NodeJS, Firebase and many more on VSCode.
 
+I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Dev.to](https://dev.to/richierich25). 
+
+## ✨ My Expertise
+- Angular10
+- Typescript
+- Javascript
+- NodeJS
+- Firebase & Google Cloud Platform
+- HTML | CSS | SASS
+- Webpack
 
 - 🔭 I’m currently working on Angular and Typescript
 - 🌱 I’m currently learning ReactJS
@@ -16,16 +26,24 @@ solve challenging project related tasks. I work with Angular, ReactJS, Javascrip
 - 💬 Ask me about anything UI
 
 
+## Opensource contributions
+- [pivot-angular](https://github.com/richierich25/pivot-angular): Angular
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Markdown
 
-### Find me all around the web:
+## Articles
+- Coming Soon!
+
+### 💌 Find me all around the web:
 
 - [Website](https://www.richierich25.com/) 🌐 
 - [Twitter](https://twitter.com/Richard_Abrah_m) :bird:
 - [Stackoverflow](https://stackoverflow.com/story/richierich25)
 - [LinkedIn]() 👩‍💻
 
+### Stats
+[![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=fff&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D&title_color=FFF7D6)](https://github.com/richierich25)
 
 ### Some Fun Facts about me:
 
-:zap: I code all the time! Yes, you heard that right! If there is something new out there, you bet I am already doing a POC on it!
+:zap: I code all the time! Yes, you heard that right! If there is something new out there, you bet I am already on it!!! :zap:
 
