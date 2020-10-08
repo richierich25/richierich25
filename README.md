@@ -1,5 +1,22 @@
+
 <a href="https://www.richierich25.com" target="_blank">
     <img alt="Richard Abraham | Website" src="https://user-images.githubusercontent.com/34006942/95367062-e827e000-08f1-11eb-8e6a-b28b6d0e9690.png" title="Richard Abraham | Website" align="right" width="200px" />
+</a>
+
+<a href="https://stackoverflow.com/story/richierich25">
+  <img align="left" alt="Richard Abraham | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://medium.com/@richierich25">
+  <img align="left" alt="Richard Abraham | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://twitter.com/Richard_Abrah_m">
+  <img align="left" alt="Richard Abraham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Richard Abraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://discord.gg/sMpeWr">
+  <img align="left" alt="Richard Abraham | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 ### Hey everyone, I'm [Richard Abraham](https://www.richierich25.com) 👋 
@@ -13,13 +30,13 @@
 I am a Full Stack Developer 🚀 from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Medium](https://medium.com/@richierich25). 
 
 ## ✨ My Expertise
-- Angular10 | Typescript | Javascript | NodeJS | Firebase & Google Cloud Platform | HTML | CSS | SASS | Webpack
+- Angular10 | Typescript | Javascript | NodeJS | Firebase | Google Cloud Platform | HTML | CSS | SASS | Webpack
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 ## Current Status
 - 🔭 I’m currently working on Angular and Typescript
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React and GCP
 - 👯 I’m looking to collaborate on open source projects and UI/UX designs
 - 💬 Ask me about anything UI
 
