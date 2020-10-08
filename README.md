@@ -47,7 +47,7 @@ I am a Full Stack Developer 🚀 from India working with a MNC. I have been deve
 ## Articles
 - [Kanban - Basic Terminologies]()
 
-### Stats
+### 🏆 Stats
 [![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D)](https://github.com/richierich25)
 
 ### Some Fun Facts about me:
