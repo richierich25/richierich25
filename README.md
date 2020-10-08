@@ -18,6 +18,7 @@
 <a href="https://discord.gg/sMpeWr">
   <img align="left" alt="Richard Abraham | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+<br>
 
 ### Hey everyone, I'm [Richard Abraham](https://www.richierich25.com) 👋 
 
@@ -25,7 +26,6 @@
 [![Made-With-Markdown](https://img.shields.io/badge/MADE%20WITH-Markdown-00BBA0)](https://github.com/richierich25)
 [![GitHub followers](https://img.shields.io/github/followers/richierich25.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/richierich25?tab=followers)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/richierich25)
-
 
 I am a Full Stack Developer 🚀 from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Medium](https://medium.com/@richierich25). 
 
