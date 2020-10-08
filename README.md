@@ -56,12 +56,12 @@ Angular10 | Typescript | Javascript | NodeJS | Firebase | Google Cloud Platform 
 - 👯 I’m looking to collaborate on open source projects and UI/UX designs
 - 💬 Ask me about anything UI
 
+## Articles
+- [Kanban - Basic Terminologies](https://medium.com/@richierich25/kanban-the-basic-terminologies-d9fc4932e487)
+
 ## 💻 Opensource contributions
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Markdown
 - [pivot-angular](https://github.com/richierich25/pivot-angular): Angular
-
-## Articles
-- [Kanban - Basic Terminologies](https://medium.com/@richierich25/kanban-the-basic-terminologies-d9fc4932e487)
 
 ### 🏆 Stats
 [![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D)](https://github.com/richierich25)
