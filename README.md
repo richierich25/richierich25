@@ -40,7 +40,7 @@ I am a Full Stack Developer 🚀 from India working with a MNC. I have been deve
 - 👯 I’m looking to collaborate on open source projects and UI/UX designs
 - 💬 Ask me about anything UI
 
-## Opensource contributions
+## 💻 Opensource contributions
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Markdown
 - [pivot-angular](https://github.com/richierich25/pivot-angular): Angular
 
@@ -49,14 +49,6 @@ I am a Full Stack Developer 🚀 from India working with a MNC. I have been deve
 
 ### Stats
 [![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richierich25&&count_private=true&show_icons=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00BBA0&bg_color=0A566D)](https://github.com/richierich25)
-
-### 💌 Find me all around the web:
-
-- [Website](https://www.richierich25.com/) 🌐 
-- [Stackoverflow](https://stackoverflow.com/story/richierich25)
-- [Twitter](https://twitter.com/Richard_Abrah_m) :bird:
-- [LinkedIn]() 👩‍💻
-
 
 ### Some Fun Facts about me:
 
