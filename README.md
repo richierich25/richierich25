@@ -29,7 +29,7 @@
 [![Made-With-Markdown](https://img.shields.io/badge/MADE%20WITH-Markdown-00BBA0)](https://github.com/richierich25)
 [![GitHub followers](https://img.shields.io/github/followers/richierich25.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/richierich25?tab=followers)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/richierich25)
-[![Website](https://img.shields.io/website?label=richierich25.com&style=for-the-badge&url=https%3A%2F%2Fwww.richierich25.com)](https://www.richierich25.com)
+[![Website](https://img.shields.io/website?label=richierich25.com&style=flat-sqaure&url=https%3A%2F%2Fwww.richierich25.com)](https://www.richierich25.com)
 
 I am a Full Stack Developer 🚀 from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Medium](https://medium.com/@richierich25). 
 
