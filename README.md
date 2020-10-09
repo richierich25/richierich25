@@ -55,7 +55,7 @@ Angular10 | Typescript | Javascript | NodeJS | Firebase | Google Cloud Platform 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/34006942/95602817-1680f900-0a73-11eb-967d-9e04b7ccb82c.gif" width="500" height="320" />
  
 ## Current Status
 - 🔭 I’m currently working on Angular and Typescript
