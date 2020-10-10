@@ -31,7 +31,7 @@
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/richierich25)
 [![Website](https://img.shields.io/website?label=richierich25.com&style=flat-sqaure&color=00BBA0&url=https%3A%2F%2Fwww.richierich25.com)](https://www.richierich25.com)
 
-I am a Full Stack Developer 🚀 from India working with a MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project related tasks. I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Medium](https://medium.com/@richierich25). 
+I am a Full Stack Developer 🚀 from India working with an MNC. I have been developing web applications for around 5 years. My expertise lies in Full Stack Development using open source technologies, developing POC's, fixing security vulnerabilities to solve challenging project-related tasks. I love to help the OSS community on [Stackoverflow](https://stackoverflow.com/story/richierich25) trying to answer some questions, or on [Medium](https://medium.com/@richierich25). 
 
 ## ✨ My Expertise
 
